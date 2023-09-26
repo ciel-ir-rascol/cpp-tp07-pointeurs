@@ -1,4 +1,4 @@
-# Install script for directory: /Users/joris/Documents/Enseignements/1CIEL/onGithub/cpp-tp02-variablesConstantes
+# Install script for directory: /Users/joris/Desktop/cpp-tp09-pointeurs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/joris/Documents/Enseignements/1CIEL/onGithub/cpp-tp02-variablesConstantes/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/joris/Desktop/cpp-tp09-pointeurs/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
