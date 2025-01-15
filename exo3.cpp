@@ -18,5 +18,5 @@ int main(){
 
     cout << endl << "Plus grand element du tableau : " << findMax(tab,tailleTab);
 
-    return;
+    return 0;
 }
