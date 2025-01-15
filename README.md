@@ -1,4 +1,4 @@
-# TP09 - Les pointeurs
+# TP07 - Les pointeurs
 **STS 1CIEL** - Quelques exercices à réaliser sur CLion afin de comprendre comment utiliser les pointeurs en C++.
 
 Ce repository est un projet CLion dans lequel vous trouverez un certain nombre de fichiers `.cpp` qui vont vous permettre de coder chaque exercice demandé. Une fois terminé il suffira de faire un commit, puis un push vers GitHub afin de rendre votre travail.
